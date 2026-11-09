@@ -4,7 +4,11 @@ function e(e,t,n,r){function i(e){return e instanceof n?e:new n(function(t){t(e)
         <img src="${Q(`sprites/flower-bud-rose.png`)}" alt="">
         <img src="${Q(`sprites/flower-bud-daisy.png`)}" alt="">
       </div>
-      <img class="lock-envelope" src="${Q(`sprites/envelope-closed.png`)}" alt="A sealed pink envelope">
+      <div class="lock-scene">
+        <img class="lock-cat lock-cat-ginger" src="${Q(`sprites/cat-ginger.png`)}" alt="">
+        <img class="lock-envelope" src="${Q(`sprites/envelope-closed.png`)}" alt="A sealed pink envelope">
+        <img class="lock-cat lock-cat-black" src="${Q(`sprites/cat-black.png`)}" alt="">
+      </div>
       <h1 id="lock-title">Little Garden</h1>
       <p>A private garden of letters is waiting.</p>
       <form class="pin-form" novalidate>
