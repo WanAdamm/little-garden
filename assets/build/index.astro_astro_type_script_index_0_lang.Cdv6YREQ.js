@@ -38,6 +38,7 @@ function e(e,t,n,r){function i(e){return e instanceof n?e:new n(function(t){t(e)
           <p>Every letter plants something new.</p>
         </div>
         <img src="${Q(`sprites/leaves.png`)}" alt="" aria-hidden="true">
+        <img src="${Q(`sprites/flower-lily.png`)}" alt="" aria-hidden="true"> 
       </section>
       <section class="newest-letter" aria-labelledby="newest-title">
         <h2 id="newest-title">The newest letter</h2>
